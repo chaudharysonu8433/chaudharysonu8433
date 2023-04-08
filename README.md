@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sonu Chaudhary</h1>
-<h3 align="center">A front-end developer with expertise in HTML, CSS, and JavaScript. Skilled in creating user-friendly interfaces and familiar with various frameworks like React. Passionate about enhancing user experiences.</h3>
+<h3 align="center">A Front-end developer proficient in HTML, CSS, and JavaScript. Experienced in creating responsive and visually appealing web pages and user interfaces.</h3>
 <img align="right" width=400 alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysonu8433&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysonu8433" /> </p>
 
