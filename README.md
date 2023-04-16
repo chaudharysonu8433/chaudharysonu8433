@@ -5,7 +5,7 @@
 <img align="right" width=400 alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysonu8433&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysonu8433" /> </p>
 
-- 🔭 I’m currently working on **Educational Website**
+- 🔭 I’m currently working on **Front-end Projects**
 
 - 🌱 I’m currently learning **Full Stack, React JS, Angular**
 
